@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hey! 👋
 
-<!--
-**plum-orchid723/plum-orchid723** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **plum-orchid723**, a performance optimizer.
 
-Here are some ideas to get you started:
+## About
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 Always learning new things
+- 🚀 Performance matters
+- 🛠️ Build small, ship often
+- 🎯 Goal: ship something useful every week
+
+## Tech
+
+`Terraform` `Clojure` `Kotlin` `C++` `WebSocket` `Lua`
+
+---
+
+_Hobbyist photographer._
